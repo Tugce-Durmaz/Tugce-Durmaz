@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there 👋</h3> 
+<h2 align="left"> Hi there 👋</h2> 
 
 - 🎓 I’m currently studying on at Manisa Celal Bayar University
 - 🔭 I’m currently working on Web Development Software
