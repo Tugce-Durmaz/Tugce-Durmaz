@@ -19,6 +19,21 @@
 📊 GitHub Stats:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Tugce-Durmaz&show_icons=true&theme=radical)
 
+
+
+
+
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tugce-Durmaz&layout=compact)
+
+
+
+
+
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tugce-Durmaz1&theme=dark)](https://git.io/streak-stats)
