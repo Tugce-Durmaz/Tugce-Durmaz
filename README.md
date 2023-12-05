@@ -65,5 +65,4 @@
 
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tugce-Durmaz1&theme=dark)](https://git.io/streak-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Tugce-Durmaz&theme=blue-green)](https://github.com/Tugce-Durmaz/github-readme-streak-stats)
