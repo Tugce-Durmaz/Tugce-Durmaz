@@ -1,6 +1,6 @@
 <h2 align="left"> Hi there 👋</h2> 
 
-- 🎓 I’m currently studying on at Manisa Celal Bayar University
+- 🎓 I graduated from Manisa Celal Bayar University.
 - 🔭 I’m currently working on Web Development Software
 - 🔭I'm interested in Artificial Intelligence and Web Development
 - ✉️ You can contact me at tugcedurmaz001@gmail.com
